@@ -2,8 +2,8 @@
 
 Class instagramApi{
 
-    private $_app_id = '1284333088906481';//ICON'1336746190339459';
-    private $_app_secret = '34560a10c555c31fd3eedb98a452e09b';//ICON'd9f72f71c5f09ad2135e951ea5eecd5b';
+    private $_app_id = '***********';
+    private $_app_secret = '********************';
     private $_redirect_url = 'https://instagram.clicktotravel.es/';
     private $_api_base_url = 'https://api.instagram.com/';
     private $_graph_base_url = 'https://graph.instagram.com/';
@@ -11,9 +11,9 @@ Class instagramApi{
     private $userId = '';
     private $_accessTokenExpires = '';
     protected $_getCode = '';
-    private $_db_ip = "82.98.147.249";
-    private $_db_username = "usr_insta";
-    private $_db_password = "Du2l9j9,2;[6";
+    private $_db_ip = "******";
+    private $_db_username = "*****";
+    private $_db_password = "*****";
     private $_db_database = "instagram_test";
 
     public $authorizationUrl = '';
