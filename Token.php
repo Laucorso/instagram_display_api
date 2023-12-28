@@ -4,9 +4,9 @@ Class Token{
 
     private $_graph_base_url = 'https://graph.instagram.com/';
     private $_renew_token_url = 'https://graph.instagram.com/v13.0/refresh_access_token';
-    private $_db_ip = "82.98.147.249";
-    private $_db_username = "usr_insta";
-    private $_db_password = "Du2l9j9,2;[6";
+    private $_db_ip = "*****";
+    private $_db_username = "*****";
+    private $_db_password = "*****";
     private $_db_database = "instagram_test";
     private $_mysqli;
 
